@@ -1,5 +1,6 @@
 #Cryptogrammer
 
+Requires python2 and pygame
 
 Run cryptogrammer.py to play
 
